@@ -1,2 +1,2 @@
 # ILCL-PET
-Interactive Click-Guided Fine-grained Segmentation of Lung Cancer Lesions in 3D PET Images
+ Upon publication, we will release the code/configuration and inference scripts, and provide trained model weights upon reasonable request, in accordance with institutional policy.
